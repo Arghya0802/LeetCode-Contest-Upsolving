@@ -1,4 +1,4 @@
-// Bi Weekly 96
+// LeetCode Bi-Weekly Contest 96
 // Link: https://leetcode.com/contest/biweekly-contest-96/problems/minimum-operations-to-make-array-equal-ii/
 
 // This is more of a observation kind of question rather than any standard algorithm
