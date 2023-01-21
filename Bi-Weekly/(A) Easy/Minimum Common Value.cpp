@@ -1,3 +1,4 @@
+// LeetCode Bi-Weekly Contest 96
 // Link: https://leetcode.com/contest/biweekly-contest-96/problems/minimum-common-value/
 
 // This is a classic 2-Pointer Problem
